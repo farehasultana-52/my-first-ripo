@@ -1,0 +1,14 @@
+.nothi{
+    color: blue;
+    background-color: azure;
+    border: 2px solid blue;
+    border-radius: 5px;
+    margin: 10px 20px;
+    padding: 10px 20px;
+    text-align: justify;
+
+}
+h1{
+    color: darkred;
+    text-align: center;
+}
